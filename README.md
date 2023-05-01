@@ -70,7 +70,7 @@ To load aditional stock information do the following:
 
 `/Stock-Data-Analyzer/Stock Data Analyzer/bin/Debug/Stock Data`
 
-6. Name the file you downloaded "<name of TICKER>-<PERIOD>.csv" for example
+6. Name the file you downloaded `<name of TICKER>-<PERIOD>.csv` for example
   
   `TSLA-Day.csv'
   
