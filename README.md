@@ -18,21 +18,14 @@ After you make sure you have these dependecies simply clone the repository
 
 Then open the file "Stock Data Analyzer.sln" from the main folder.
 
-## Setup
+## For Users
 
 To set up the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/jackysiegs/GIO.git`
+1. Clone the repository: `git clone https://github.com/jackysiegs/Stock-Data-Analyzer.git`
+2. Navigate to Stock Data.exe within the project which can be found here: /Stock-Data-Analyzer/Stock Data Analyzer/bin/Debug/Stock Data.exe
 
-2. Create and activate a virtual environment in CLI (Unix)):
 
-```
-$ pip install virtualenv
-$ python3.10 -m venv venv
-$ source venv/bin/activate
-```
-
-3. Install the required packages: `pip install -r requirements.txt`
 
 ## Troubleshooting
 
