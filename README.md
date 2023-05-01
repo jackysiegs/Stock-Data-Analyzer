@@ -64,13 +64,13 @@ To load aditional stock information do the following:
 
 3. Once at the page of your selected stock navigate to the "Historical Data" section.
 
-4. Select the time period and dates you want to analyze and the click "Download" to recieve you .csv
+4. Select the time period and dates you want to analyze and then click "Download" to recieve your .csv
 
 5. Navigate to the "Stock Data" folder in the project found here:
 
 `/Stock-Data-Analyzer/Stock Data Analyzer/bin/Debug/Stock Data`
 
-6. Name the file you downloaded <name of TICKER>-<PERIOD>.csv for example
+6. Name the file you downloaded "<name of TICKER>-<PERIOD>.csv" for example
   
   `TSLA-Day.csv'
   
