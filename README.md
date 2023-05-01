@@ -87,11 +87,5 @@ To load aditional stock information do the following:
 
 ## Documentation
 
-- [gTTS](https://pypi.org/project/gTTS/)
-- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
-- [mpg321](https://mpg321.sourceforge.net/)
-- [os](https://docs.python.org/3/library/os.html)
-- [pyaudio](https://people.csail.mit.edu/hubert/pyaudio/)
-- [pydub](https://pypi.org/project/pydub/)
-- [wave](https://docs.python.org/3/library/wave.html)
-- [Deepgram](https://developers.deepgram.com/sdks-tools/sdks/python-sdk/)
+- [.NET Framework](https://docs.microsoft.com/en-us/dotnet/framework/)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
