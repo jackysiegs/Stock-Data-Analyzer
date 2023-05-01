@@ -27,6 +27,7 @@ To set up the project, follow these steps:
 1. Clone the repository: `git clone https://github.com/jackysiegs/Stock-Data-Analyzer.git`
 
 2. Navigate to Stock Data.exe within the project which can be found here:
+
 `/Stock-Data-Analyzer/Stock Data Analyzer/bin/Debug/Stock Data.exe`
 
 
