@@ -70,9 +70,9 @@ To load aditional stock information do the following:
 
 `/Stock-Data-Analyzer/Stock Data Analyzer/bin/Debug/Stock Data`
 
-6. Name the file you downloaded `<name of TICKER>-<PERIOD>.csv` for example
+6. Name the file you downloaded `<TICKER>-<PERIOD>.csv` for example
   
-  `TSLA-Day.csv'
+  `TSLA-Day.csv' `AAPL-Week.csv` `MSFT-Month.csv`
   
 7. Note that the project will only load the PERIOD and DATEs pertaining to information related to the .csv that you downloaed.
   
