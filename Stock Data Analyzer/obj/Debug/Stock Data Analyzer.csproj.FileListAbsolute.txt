@@ -1,0 +1,12 @@
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\bin\Debug\Stock Data.exe.config
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\bin\Debug\Stock Data.exe
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\bin\Debug\Stock Data.pdb
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\obj\Debug\Stock Data Analyzer.csproj.AssemblyReference.cache
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\obj\Debug\Stock Data Analyzer.csproj.SuggestedBindingRedirects.cache
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\obj\Debug\Stock_Data_Analyzer.formLoader.resources
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\obj\Debug\Stock_Data_Analyzer.formChart.resources
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\obj\Debug\Stock_Data_Analyzer.Properties.Resources.resources
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\obj\Debug\Stock Data Analyzer.csproj.GenerateResource.cache
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\obj\Debug\Stock Data Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\obj\Debug\Stock Data.exe
+C:\Users\jackr\OneDrive\Desktop\Stock Data Analyzer\Stock Data Analyzer\obj\Debug\Stock Data.pdb
