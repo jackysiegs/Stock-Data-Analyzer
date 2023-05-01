@@ -54,6 +54,33 @@ You can load as many graphs as you please.
 - Zoom: Drag over any portion of the graph to zoom in and then hit the "Zoom-out" button to zoom out.
 
 
+## Loading Additional Stock Data
+
+To load aditional stock information do the following:
+
+1. Go to https://finance.yahoo.com
+
+2. In the search bar type the specific stock you are looking for then click it.
+
+3. Once at the page of your selected stock navigate to the "Historical Data" section.
+
+4. Select the time period and dates you want to analyze and the click "Download" to recieve you .csv
+
+5. Navigate to the "Stock Data" folder in the project found here:
+
+`/Stock-Data-Analyzer/Stock Data Analyzer/bin/Debug/Stock Data`
+
+6. Name the file you downloaded <name of TICKER>-<PERIOD>.csv for example
+  
+  `TSLA-Day.csv'
+  
+7. Note that the project will only load the PERIOD and DATEs pertaining to information related to the .csv that you downloaed.
+  
+  Becase of this it would be good practice to download Daily, Weekly, and Monthly data for each TICKER you would like to observe.
+  
+8. Add the downloaded .csv files to the "Stock Data" folder then run "Stock Data.exe" like normal!
+
+
 
 
 ## Documentation
