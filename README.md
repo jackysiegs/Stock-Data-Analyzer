@@ -56,6 +56,15 @@ You can load as many graphs as you please.
 
 ## Loading Additional Stock Data
 
+The program comes with daily, weekly, and monthly stock data for:
+
+- AAPL
+- GOOGL
+- IBM
+- META
+- MSFT
+- TSLA
+
 To load aditional stock information do the following:
 
 1. Go to https://finance.yahoo.com
