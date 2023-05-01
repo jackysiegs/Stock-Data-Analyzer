@@ -1,15 +1,9 @@
 # Stock-Data-Analyzer
 
-## Updates to fork
+## About
+This is a project I developed in order to build my skills working with C# and the .NET framework. 
 
-I have swapepd the Whisper Framework with a popular framework called Deepgram which offer many benefits, one being WAY faster transcription of audio files.
-Deepgram also offers the uttility to trasncribe from live online sources using URL.
-
-Deepgram offers 12,000 minutes or 200 hours of free transciption (which I've been using for this testing) after that pricing starts at $0.0145/min for the enhanced models and $0.0125/min for the base models. This framework also allows for the transcription of live web resources via URL. Further pricing information can be found here: https://deepgram.com/pricing/
-
-run ```python3 find_microphones.py``` to find the PyAudio index value of a desried microphone on your machine.
-
-requirements.txt is updated to install with Deepgram instead of Whisper.
+Within this repository you will find the code and executable for a Windows Form Applications that analyzes and detects stock market patterns by running algorithms against .csv files from https://finance.yahoo.com
 
 ## Orignal Mission Statement
 The scope of this project is to create a system that can integrate onto a raspberry pi, and recognize the user's speech, store it as a python variable, and repeat the user's speech back to the user. The system will also be able to recognize the user's speech and perform a specific action based on the user's speech. 
