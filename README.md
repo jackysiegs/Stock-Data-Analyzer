@@ -9,7 +9,9 @@ Within this repository you will find the code and executable for a Windows Form 
 Before you get started playing with the code that makes up my project make sure you have the following:
 
 - A computer running Windows 7 or later.
+
 - The .NET Framework 4.6 or later. https://dotnet.microsoft.com/download
+
 - Visual Studio 2019 or later. https://visualstudio.microsoft.com/downloads
 
 After you make sure you have these dependecies simply clone the repository 
@@ -23,6 +25,7 @@ Then open the file "Stock Data Analyzer.sln" from the main folder.
 To set up the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/jackysiegs/Stock-Data-Analyzer.git`
+
 2. Navigate to Stock Data.exe within the project which can be found here:
 `/Stock-Data-Analyzer/Stock Data Analyzer/bin/Debug/Stock Data.exe`
 
