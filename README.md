@@ -30,19 +30,31 @@ To set up the project, follow these steps:
 
 `/Stock-Data-Analyzer/Stock Data Analyzer/bin/Debug/Stock Data.exe`
 
+3. Open Stock Data.exe and start analyzing candlestick data!
 
 
-## Troubleshooting
 
-If you encounter any issues with the project, try the following:
+## How to Use
 
-- Make sure you have the correct dependencies installed.
+1. The first form will provide the user with the options to select the following:
 
-- Make sure you are running the project in the virtual environment.
+- DATE
+- PERIOD (daily, weekly, monthly)
+- TICKER
 
-- Check the project's documentation for any additional troubleshooting steps.
+Select each of these to your liking, then hit the "Load" button to spawn a graph form with the respective information.
 
-- Make sure to input a Deepgram API Key into transcriber.py
+You can load as many graphs as you please.
+
+2. Following step 1 a chart form will appear with the following capabilities:
+
+- A candlestick graph displaying market information for the TICKER selected.
+- Pattern Selection: Select a pattern from the drop-down list and then press the "Load" button to annotate the identified candlesticks.
+- Clear: Click the "Clear" button to remove annotated candlesticks from the current chart.
+- Zoom: Drag over any portion of the graph to zoom in and then hit the "Zoom-out" button to zoom out.
+
+
+
 
 ## Documentation
 
