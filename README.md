@@ -42,9 +42,9 @@ To set up the project, follow these steps:
 - PERIOD (daily, weekly, monthly)
 - TICKER
 
-Select each of these to your liking, then hit the "Load" button to spawn a graph form with the respective information.
+  Select each of these to your liking, then hit the "Load" button to spawn a graph form with the respective information.
 
-You can load as many graphs as you please.
+  You can load as many graphs as you please.
 
 2. Following step 1 a chart form will appear with the following capabilities:
 
