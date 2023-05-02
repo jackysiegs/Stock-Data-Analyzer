@@ -81,7 +81,7 @@ To load aditional stock information do the following:
 
 6. Name the file you downloaded `<TICKER>-<PERIOD>.csv` for example:
   
-  `TSLA-Day.csv` `APPL-Week.csv` `MSFT-Month.csv`
+  `TSLA-Day.csv` `AAPL-Week.csv` `MSFT-Month.csv`
   
 7. Note that the project will only load the PERIOD and DATEs pertaining to information related to the .csv that you downloaed.
   
