@@ -1,4 +1,5 @@
 # Stock-Data-Analyzer
+![STOCKCAPTURE](https://user-images.githubusercontent.com/46433438/236961861-ef6e0f6c-732a-43c9-9a42-e78d171679f8.PNG)
 
 ## About
 This is a project I developed in order to build my skills working with C# and the .NET framework. 
