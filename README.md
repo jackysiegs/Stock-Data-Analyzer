@@ -88,7 +88,7 @@ To load aditional stock information do the following:
   
    Becase of this it would be good practice to download Daily, Weekly, and Monthly data for each TICKER you would like to observe.
   
-   It is also recommended to download 1 year of Daily data, 2 years of Weekly data, and 5 years or Month data.
+   It is also recommended to download 1 year of Daily data, 2 years of Weekly data, and 5 years of Monthly data.
   
 8. Add the downloaded .csv files to the "Stock Data" folder then run "Stock Data.exe" like normal!
 
