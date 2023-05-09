@@ -4,7 +4,7 @@
 ## About
 This is a project I developed in order to build my skills working with C# and the .NET framework. 
 
-Within this repository you will find the code and executable for a Windows Forms Application that analyzes and detects stock market patterns by running algorithms against .csv files from https://finance.yahoo.com
+Within this repository you will find the code and executable for a Windows Form Application that analyzes and detects stock market patterns by running algorithms against .csv files from https://finance.yahoo.com
 
 ## For Developers
 Before you get started playing with the code that makes up my project make sure you have the following:
