@@ -55,6 +55,7 @@ Bonus. Toggle Light Mode/ Dark Mode
 - Clear: Click the "Clear" button to remove annotated candlesticks from the current chart.
 - Zoom: Drag over any portion of the graph to zoom in and then hit the "Zoom-out" button to zoom out.
 
+Bonus. Toggle Light / Dark mode
 
 ## Loading Additional Stock Data
 
