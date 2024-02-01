@@ -33,6 +33,7 @@ To set up the project, follow these steps:
 
 3. Open Stock Data.exe and start analyzing candlestick data!
 
+Bonus. Toggle Light Mode/ Dark Mode
 
 
 ## How to Use
